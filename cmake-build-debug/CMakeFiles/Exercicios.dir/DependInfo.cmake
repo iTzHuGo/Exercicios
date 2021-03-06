@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/main.c" "/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/cmake-build-debug/CMakeFiles/Exercicios.dir/main.c.o"
+  "/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/ppp4.2.9.c" "/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/cmake-build-debug/CMakeFiles/Exercicios.dir/ppp4.2.9.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

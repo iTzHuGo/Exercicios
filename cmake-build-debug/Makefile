@@ -143,32 +143,32 @@ Exercicios/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/build
 .PHONY : Exercicios/fast
 
-main.o: main.c.o
+ppp4.2.9.o: ppp4.2.9.c.o
 
-.PHONY : main.o
+.PHONY : ppp4.2.9.o
 
 # target to build an object file
-main.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/main.c.o
-.PHONY : main.c.o
+ppp4.2.9.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/ppp4.2.9.c.o
+.PHONY : ppp4.2.9.c.o
 
-main.i: main.c.i
+ppp4.2.9.i: ppp4.2.9.c.i
 
-.PHONY : main.i
+.PHONY : ppp4.2.9.i
 
 # target to preprocess a source file
-main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/main.c.i
-.PHONY : main.c.i
+ppp4.2.9.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/ppp4.2.9.c.i
+.PHONY : ppp4.2.9.c.i
 
-main.s: main.c.s
+ppp4.2.9.s: ppp4.2.9.c.s
 
-.PHONY : main.s
+.PHONY : ppp4.2.9.s
 
 # target to generate assembly for a file
-main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/main.c.s
-.PHONY : main.c.s
+ppp4.2.9.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/ppp4.2.9.c.s
+.PHONY : ppp4.2.9.c.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Exercicios"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... ppp4.2.9.o"
+	@echo "... ppp4.2.9.i"
+	@echo "... ppp4.2.9.s"
 .PHONY : help
 
 
