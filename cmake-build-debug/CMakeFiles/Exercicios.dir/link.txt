@@ -1,1 +1,1 @@
-/usr/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/Exercicios.dir/ppp4.2.9.c.o  -o Exercicios.exe -Wl,--out-implib,libExercicios.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.o  -o Exercicios.exe -Wl,--out-implib,libExercicios.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

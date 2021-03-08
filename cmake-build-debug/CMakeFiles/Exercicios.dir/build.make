@@ -77,27 +77,27 @@ include CMakeFiles/Exercicios.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Exercicios.dir/flags.make
 
-CMakeFiles/Exercicios.dir/ppp4.2.9.c.o: CMakeFiles/Exercicios.dir/flags.make
-CMakeFiles/Exercicios.dir/ppp4.2.9.c.o: ../ppp4.2.9.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Exercicios.dir/ppp4.2.9.c.o"
-	/usr/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Exercicios.dir/ppp4.2.9.c.o   -c /cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/ppp4.2.9.c
+CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.o: CMakeFiles/Exercicios.dir/flags.make
+CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.o: ../Folha_2/ppp5.2.2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.o"
+	/usr/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.o   -c /cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_2/ppp5.2.2.c
 
-CMakeFiles/Exercicios.dir/ppp4.2.9.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Exercicios.dir/ppp4.2.9.c.i"
-	/usr/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/ppp4.2.9.c > CMakeFiles/Exercicios.dir/ppp4.2.9.c.i
+CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.i"
+	/usr/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_2/ppp5.2.2.c > CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.i
 
-CMakeFiles/Exercicios.dir/ppp4.2.9.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Exercicios.dir/ppp4.2.9.c.s"
-	/usr/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/ppp4.2.9.c -o CMakeFiles/Exercicios.dir/ppp4.2.9.c.s
+CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.s"
+	/usr/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_2/ppp5.2.2.c -o CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.s
 
 # Object files for target Exercicios
 Exercicios_OBJECTS = \
-"CMakeFiles/Exercicios.dir/ppp4.2.9.c.o"
+"CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.o"
 
 # External object files for target Exercicios
 Exercicios_EXTERNAL_OBJECTS =
 
-Exercicios.exe: CMakeFiles/Exercicios.dir/ppp4.2.9.c.o
+Exercicios.exe: CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.o
 Exercicios.exe: CMakeFiles/Exercicios.dir/build.make
 Exercicios.exe: CMakeFiles/Exercicios.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable Exercicios.exe"

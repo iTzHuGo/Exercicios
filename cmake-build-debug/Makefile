@@ -143,32 +143,32 @@ Exercicios/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/build
 .PHONY : Exercicios/fast
 
-ppp4.2.9.o: ppp4.2.9.c.o
+Folha_2/ppp5.2.2.o: Folha_2/ppp5.2.2.c.o
 
-.PHONY : ppp4.2.9.o
+.PHONY : Folha_2/ppp5.2.2.o
 
 # target to build an object file
-ppp4.2.9.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/ppp4.2.9.c.o
-.PHONY : ppp4.2.9.c.o
+Folha_2/ppp5.2.2.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.o
+.PHONY : Folha_2/ppp5.2.2.c.o
 
-ppp4.2.9.i: ppp4.2.9.c.i
+Folha_2/ppp5.2.2.i: Folha_2/ppp5.2.2.c.i
 
-.PHONY : ppp4.2.9.i
+.PHONY : Folha_2/ppp5.2.2.i
 
 # target to preprocess a source file
-ppp4.2.9.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/ppp4.2.9.c.i
-.PHONY : ppp4.2.9.c.i
+Folha_2/ppp5.2.2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.i
+.PHONY : Folha_2/ppp5.2.2.c.i
 
-ppp4.2.9.s: ppp4.2.9.c.s
+Folha_2/ppp5.2.2.s: Folha_2/ppp5.2.2.c.s
 
-.PHONY : ppp4.2.9.s
+.PHONY : Folha_2/ppp5.2.2.s
 
 # target to generate assembly for a file
-ppp4.2.9.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/ppp4.2.9.c.s
-.PHONY : ppp4.2.9.c.s
+Folha_2/ppp5.2.2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/Folha_2/ppp5.2.2.c.s
+.PHONY : Folha_2/ppp5.2.2.c.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Exercicios"
-	@echo "... ppp4.2.9.o"
-	@echo "... ppp4.2.9.i"
-	@echo "... ppp4.2.9.s"
+	@echo "... Folha_2/ppp5.2.2.o"
+	@echo "... Folha_2/ppp5.2.2.i"
+	@echo "... Folha_2/ppp5.2.2.s"
 .PHONY : help
 
 
