@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void soma(int *a, const int *b, int *sum){
+void soma(int *a, int *b, int *sum){
     *sum = *a + *b;
 }
 

@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_2/ppp5.2.2.c
+/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_2/ppp6.1.1.c
 stdio.h
+-
+stdbool.h
 -
 
