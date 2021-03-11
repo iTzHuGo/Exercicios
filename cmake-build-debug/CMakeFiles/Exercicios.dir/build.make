@@ -80,28 +80,28 @@ include CMakeFiles/Exercicios.dir/flags.make
 CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.o: CMakeFiles/Exercicios.dir/flags.make
 CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.o: /cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.o"
-	/usr/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.o   -c /cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.o   -c /cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c
 
 CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.i"
-	/usr/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c > CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c > CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.i
 
 CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.s"
-	/usr/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c -o CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c -o CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.s
 
 CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.o: CMakeFiles/Exercicios.dir/flags.make
 CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.o: /cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.o"
-	/usr/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.o   -c /cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.o   -c /cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c
 
 CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.i"
-	/usr/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c > CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c > CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.i
 
 CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.s"
-	/usr/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c -o CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c -o CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.s
 
 # Object files for target Exercicios
 Exercicios_OBJECTS = \

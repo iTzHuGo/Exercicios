@@ -38,11 +38,8 @@ CMAKE_CODEBLOCKS_MAKE_ARGUMENTS:STRING=-j8
 //Enable/Disable color output during build.
 CMAKE_COLOR_MAKEFILE:BOOL=ON
 
-//No help, variable specified on the command line.
-CMAKE_CXX_COMPILER:UNINITIALIZED=/usr/bin/g++.exe
-
-//No help, variable specified on the command line.
-CMAKE_C_COMPILER:UNINITIALIZED=/usr/bin/gcc.exe
+//C compiler
+CMAKE_C_COMPILER:FILEPATH=/usr/bin/cc
 
 //A wrapper around 'ar' adding the appropriate '--plugin' option
 // for the GCC compiler
@@ -94,8 +91,8 @@ CMAKE_INSTALL_PREFIX:PATH=/usr/local
 //Path to a program.
 CMAKE_LINKER:FILEPATH=/usr/bin/ld.exe
 
-//No help, variable specified on the command line.
-CMAKE_MAKE_PROGRAM:UNINITIALIZED=/usr/bin/make.exe
+//Path to a program.
+CMAKE_MAKE_PROGRAM:FILEPATH=/usr/bin/make.exe
 
 //Flags used by the linker during the creation of modules during
 // all build types.
@@ -221,23 +218,11 @@ ExerciciosPPP_BINARY_DIR:STATIC=/cygdrive/c/Users/hugos/Documents/CLionProjects/
 //Value Computed by CMake
 ExerciciosPPP_SOURCE_DIR:STATIC=/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios
 
-//Value Computed by CMake
-Exercicios_BINARY_DIR:STATIC=/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/cmake-build-debug
-
-//Value Computed by CMake
-Exercicios_SOURCE_DIR:STATIC=/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios
-
 //Path to a program.
 ProcessorCount_cmd_nproc:FILEPATH=/usr/bin/nproc.exe
 
 //Path to a program.
 ProcessorCount_cmd_sysctl:FILEPATH=ProcessorCount_cmd_sysctl-NOTFOUND
-
-//Value Computed by CMake
-untitled_BINARY_DIR:STATIC=/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/cmake-build-debug
-
-//Value Computed by CMake
-untitled_SOURCE_DIR:STATIC=/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios
 
 
 ########################
@@ -315,6 +300,8 @@ CMAKE_GENERATOR_TOOLSET:INTERNAL=
 CMAKE_HOME_DIRECTORY:INTERNAL=/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios
 //ADVANCED property for variable: CMAKE_LINKER
 CMAKE_LINKER-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: CMAKE_MAKE_PROGRAM
+CMAKE_MAKE_PROGRAM-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MODULE_LINKER_FLAGS
 CMAKE_MODULE_LINKER_FLAGS-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MODULE_LINKER_FLAGS_DEBUG
