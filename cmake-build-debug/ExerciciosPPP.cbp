@@ -74,7 +74,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_2/ppp6.1.1.c">
+		<Unit filename="/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c">
+			<Option target="Exercicios"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c">
 			<Option target="Exercicios"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/CMakeLists.txt">

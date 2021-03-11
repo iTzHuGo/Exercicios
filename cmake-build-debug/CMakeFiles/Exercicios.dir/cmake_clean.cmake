@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Exercicios.dir/Folha_2/ppp6.1.1.c.o"
+  "CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.o"
+  "CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.o"
   "Exercicios.exe"
   "Exercicios.pdb"
   "libExercicios.dll.a"

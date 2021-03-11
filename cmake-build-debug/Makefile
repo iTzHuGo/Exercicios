@@ -143,32 +143,59 @@ Exercicios/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/build
 .PHONY : Exercicios/fast
 
-Folha_2/ppp6.1.1.o: Folha_2/ppp6.1.1.c.o
+cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.o: cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.o
 
-.PHONY : Folha_2/ppp6.1.1.o
+.PHONY : cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.o
 
 # target to build an object file
-Folha_2/ppp6.1.1.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/Folha_2/ppp6.1.1.c.o
-.PHONY : Folha_2/ppp6.1.1.c.o
+cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.o
+.PHONY : cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.o
 
-Folha_2/ppp6.1.1.i: Folha_2/ppp6.1.1.c.i
+cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.i: cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.i
 
-.PHONY : Folha_2/ppp6.1.1.i
+.PHONY : cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.i
 
 # target to preprocess a source file
-Folha_2/ppp6.1.1.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/Folha_2/ppp6.1.1.c.i
-.PHONY : Folha_2/ppp6.1.1.c.i
+cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.i
+.PHONY : cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.i
 
-Folha_2/ppp6.1.1.s: Folha_2/ppp6.1.1.c.s
+cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.s: cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.s
 
-.PHONY : Folha_2/ppp6.1.1.s
+.PHONY : cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.s
 
 # target to generate assembly for a file
-Folha_2/ppp6.1.1.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/Folha_2/ppp6.1.1.c.s
-.PHONY : Folha_2/ppp6.1.1.c.s
+cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.s
+.PHONY : cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.s
+
+cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.o: cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.o
+
+.PHONY : cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.o
+
+# target to build an object file
+cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.o
+.PHONY : cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.o
+
+cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.i: cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.i
+
+.PHONY : cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.i
+
+# target to preprocess a source file
+cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.i
+.PHONY : cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.i
+
+cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.s: cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.s
+
+.PHONY : cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.s
+
+# target to generate assembly for a file
+cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.s
+.PHONY : cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.s
 
 # Help Target
 help:
@@ -179,9 +206,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Exercicios"
-	@echo "... Folha_2/ppp6.1.1.o"
-	@echo "... Folha_2/ppp6.1.1.i"
-	@echo "... Folha_2/ppp6.1.1.s"
+	@echo "... cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.o"
+	@echo "... cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.i"
+	@echo "... cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.s"
+	@echo "... cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.o"
+	@echo "... cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.i"
+	@echo "... cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.s"
 .PHONY : help
 
 
