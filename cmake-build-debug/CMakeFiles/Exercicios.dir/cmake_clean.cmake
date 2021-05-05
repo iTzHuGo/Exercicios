@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.o"
-  "CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.o"
+  "CMakeFiles/Exercicios.dir/Folha_4/ppp11.1.5/arvbin-ficheiros.c.o"
+  "CMakeFiles/Exercicios.dir/Folha_4/ppp11.1.5/arvbin.c.o"
+  "CMakeFiles/Exercicios.dir/Folha_4/ppp11.1.5/lib-utf8.c.o"
+  "CMakeFiles/Exercicios.dir/Folha_4/ppp11.1.5/ppp11.1.5-p2.c.o"
   "Exercicios.exe"
   "Exercicios.pdb"
   "libExercicios.dll.a"

@@ -6,13 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c
-stdio.h
--
+/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_4/ppp11.1.5/arvbin.h
 stdbool.h
 -
+lib-utf8.h
+/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_4/ppp11.1.5/lib-utf8.h
 
-/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c
+/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_4/ppp11.1.5/lib-utf8.h
 stdio.h
 -
+
+/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_4/ppp11.1.5/ppp11.1.5-p2.c
+stdio.h
+-
+arvbin.h
+/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_4/ppp11.1.5/arvbin.h
 

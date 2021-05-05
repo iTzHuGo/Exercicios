@@ -74,10 +74,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c">
+		<Unit filename="/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_4/ppp11.1.5/arvbin-ficheiros.c">
 			<Option target="Exercicios"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c">
+		<Unit filename="/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_4/ppp11.1.5/arvbin.c">
+			<Option target="Exercicios"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_4/ppp11.1.5/arvbin.h">
+			<Option target="Exercicios"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_4/ppp11.1.5/lib-utf8.c">
+			<Option target="Exercicios"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_4/ppp11.1.5/lib-utf8.h">
+			<Option target="Exercicios"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_4/ppp11.1.5/ppp11.1.5-p2.c">
 			<Option target="Exercicios"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/CMakeLists.txt">

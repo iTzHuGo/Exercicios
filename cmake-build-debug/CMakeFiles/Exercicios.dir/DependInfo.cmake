@@ -4,8 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c" "/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/cmake-build-debug/CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main-aux.c.o"
-  "/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c" "/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/cmake-build-debug/CMakeFiles/Exercicios.dir/cygdrive/c/Users/hugos/Documents/CLionProjects/Avaliacoes/main.c.o"
+  "/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_4/ppp11.1.5/arvbin-ficheiros.c" "/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/cmake-build-debug/CMakeFiles/Exercicios.dir/Folha_4/ppp11.1.5/arvbin-ficheiros.c.o"
+  "/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_4/ppp11.1.5/arvbin.c" "/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/cmake-build-debug/CMakeFiles/Exercicios.dir/Folha_4/ppp11.1.5/arvbin.c.o"
+  "/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_4/ppp11.1.5/lib-utf8.c" "/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/cmake-build-debug/CMakeFiles/Exercicios.dir/Folha_4/ppp11.1.5/lib-utf8.c.o"
+  "/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/Folha_4/ppp11.1.5/ppp11.1.5-p2.c" "/cygdrive/c/Users/hugos/Documents/CLionProjects/Exercicios/cmake-build-debug/CMakeFiles/Exercicios.dir/Folha_4/ppp11.1.5/ppp11.1.5-p2.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
